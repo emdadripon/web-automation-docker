@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bcb4bae1-e890-436c-b26c-1af1aabc8260" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UaPlSZHMvsgRR4g9OeX1gjAoDX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\eripo\IdeaProjects\web-automation-docker\src\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/eripo/IdeaProjects/web-automation-docker/src/test/search-module.xml">
+    <configuration name="C:/Users/eripo/IdeaProjects/web-automation-docker/src/test/book-flight-module.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="web-automation-docker" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/book-flight-module.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/eripo/IdeaProjects/web-automation-docker/src/test/search-module.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="web-automation-docker" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/search-module.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="web-automation-docker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.searchmodule.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.searchmodule.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.searchmodule.tests.SearchTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="web-automation-docker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.searchmodule.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.searchmodule.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.searchmodule.tests.SearchTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchTest.search" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="web-automation-docker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.searchmodule.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.searchmodule.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.searchmodule.tests.SearchTest" />
+      <option name="METHOD_NAME" value="search" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/eripo/IdeaProjects/web-automation-docker/src/test/search-module.xml" />
+        <item itemvalue="TestNG.C:/Users/eripo/IdeaProjects/web-automation-docker/src/test/book-flight-module.xml" />
+        <item itemvalue="TestNG.SearchTest (1)" />
+        <item itemvalue="TestNG.SearchTest" />
+        <item itemvalue="TestNG.SearchTest.search" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bcb4bae1-e890-436c-b26c-1af1aabc8260" name="Default Changelist" comment="" />
+      <created>1575591883325</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575591883325</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="312" y="91" key="#Project_Structure" timestamp="1575602154918">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="312" y="91" key="#Project_Structure/0.0.1440.860@0.0.1440.860" timestamp="1575602154918" />
+    <state width="1380" height="176" key="GridCell.Tab.0.bottom" timestamp="1575852822071">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1380" height="176" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1575852822071" />
+    <state width="1380" height="176" key="GridCell.Tab.0.center" timestamp="1575852822071">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1380" height="176" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1575852822071" />
+    <state width="1380" height="176" key="GridCell.Tab.0.left" timestamp="1575852822071">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1380" height="176" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1575852822071" />
+    <state width="1380" height="176" key="GridCell.Tab.0.right" timestamp="1575852822071">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1380" height="176" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1575852822071" />
+    <state x="427" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1575914422250">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="427" y="257" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1575914422250" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/tests/BaseTest.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
